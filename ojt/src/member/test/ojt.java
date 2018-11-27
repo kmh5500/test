@@ -5,7 +5,7 @@ package member.test;
 
 
 
-/**
+/**ddd
  * <pre>
  * Copyright 2009 SOA Course, Inc. All rights reserved.
  * 패키지명        : ${package_name} 
